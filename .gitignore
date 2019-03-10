@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 data/
+*/**/__pycache__/
 
 # Ignore VSCode Config Folder
 .vscode
